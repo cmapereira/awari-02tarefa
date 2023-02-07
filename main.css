@@ -134,14 +134,14 @@ section{
 footer{
   position: relative;
   top: 50px;
-  height: 200px;
+  height: 300px;
   border-top: 5px solid gray;
   background: black;
   color: white;
 }
 
 footer p{
-  line-height: 200px;
+  line-height: 300px;
   padding-left: 10px;
   font-size: 20px;
   text-align: center;
